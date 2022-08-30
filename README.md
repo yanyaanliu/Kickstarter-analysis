@@ -26,7 +26,7 @@ For the analysis of Outcomes Based on Goals, we used Excel formulas and function
 
 ### Challenges and Difficulties Encountered
 
-One the challenges was using the COUNTIFS function to populate the "Number Successful," "Number Failed," and "Number Canceled" since criteria changed based on the goal range for each of the cells to be populated. Changing the criteria manually could have led to errors.
+One the challenges was using the COUNTIFS function to populate the "Number Successful," "Number Failed", and "Number Canceled" since criteria changed based on the goal range for each of the cells to be populated. Changing the criteria manually could have led to errors.
 
 ## Results
 
