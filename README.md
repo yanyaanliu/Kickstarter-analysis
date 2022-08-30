@@ -8,6 +8,8 @@ The analysis was performed on the Kickstarting dataset which contains fundraisin
 
 ## Analysis and Challenges
 
+![Link to Kickstarter Analysis file](Kickstarter_Challenge.xlsx)
+
 ### Analysis of Outcomes Based on Launch Date
 
 For the analysis of outcomes based on launch date, we utilized pivot tables to summarize the data and filter it to only only show "Theater" campaigns.
