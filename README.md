@@ -29,20 +29,19 @@ One the challenges was using the COUNTIFS function to populate the "Number Succe
 
 Based on the analysis of theater outcomes based on launch date, we can see that there is a larger number of successful campaigns lauched in the  months of May, June and July (Summer). The most successful month was May; 66.9% of the 166 total campaigns launched were successful.
 On the other hand, there were less successful campaigns in the winter months (Nov, Dec, Jan). December was the month with most failed campaigns, 46.67% of 75 campaigns failed.
-
 ![Outcomes based on launch](/Resources/Theater_Outcomes_vs_Launch.png)
 
 - What can you conclude about the Outcomes based on Goals?
 
-The most successful campaigns are the one with the lowest goals. The most successful goal range was "less than $1000" with 76% sucess rate, followed by the  "$1000 to $4999" range with 73% sucess rate.
-Campaign goals over $20,000 have a larger percentage of "failed" than the percentage of "successful". 
+We can conclude that most successful campaigns are the one with the lowest goals while campaigns with larger goals tend to fail. 
+The most successful goal range was "less than $1000" with 76% sucess rate, followed by the  "$1000 to $4999" range with 73% sucess rate. 
 Campaign goals of "$45000 to $49999" and $50,000 or more" are the most unsucessful with 100% and 88% failure rate respectively. 
 ![Outcomes based on goal](/Resources/Outcomes_vs_Goals.png)
 
 - What are some limitations of this dataset?
 
 One of the limitations of this dataset is that the sample size of the categories of our interest is not large enough and the results might not tell a true story. 
-For instance, in the analysis of outcomes based on goal, we are only focusing on Plays. The total number of projects with goals over 15000 is only 86 while the total number of projects with goals less than 14999 is 961. 
+In the analysis of outcomes based on goal, we are only focusing on Plays and the total number of projects with goals over 15000 is only 86 while the total number of projects with goals less than 14999 is 961. For instance, campaign goals of "$45000 to $49999" show a 100% failure rate but there is only one campaign in this range and that one campaign failed. This does not necessarily mean that all campaigns in the "$45000 to $49999" goal range will a 100% fail but because our sample size is 1, the story might be misleading. 
 
 - What are some other possible tables and/or graphs that we could create?
 
