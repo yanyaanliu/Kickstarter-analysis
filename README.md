@@ -14,7 +14,7 @@ The analysis was performed on the Kickstarting dataset which contains fundraisin
 ### Analysis of Outcomes Based on Launch Date
 
 For the analysis of outcomes based on launch date, we utilized pivot tables to summarize the data and filter it to only show "Theater" campaigns.
-A line chart was created from the pivot table to visualize campaign outcomes ("successful," "failed," and "canceled") based on launch date.
+A line chart was created from the pivot table to visualize campaign outcomes ("successful," "failed", and "canceled") based on launch date.
 <br />
 ![pivottable](/Resources/PivotTable1.png)
 
