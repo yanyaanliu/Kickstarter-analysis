@@ -27,9 +27,8 @@ One the challenges was using the COUNTIFS function to populate the "Number Succe
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-Based on the analysis of theater outcomes based on launch date, we can see that there is a larger number of successful campaigns lauched in the  months of May, June and July (Summer). The most successful month was May; 66.9% of the 166 campaigns were successful.
-On the other hand, there were less successful campaigns in the winter months (Nov, Dec, Jan). December was the month with most failed campaigns, 46.67% of 75
-failed.
+Based on the analysis of theater outcomes based on launch date, we can see that there is a larger number of successful campaigns lauched in the  months of May, June and July (Summer). The most successful month was May; 66.9% of the 166 total campaigns launched were successful.
+On the other hand, there were less successful campaigns in the winter months (Nov, Dec, Jan). December was the month with most failed campaigns, 46.67% of 75 campaigns failed.
 
 ![Outcomes based on launch](/Resources/Theater_Outcomes_vs_Launch.png)
 
