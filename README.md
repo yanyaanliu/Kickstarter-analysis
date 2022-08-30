@@ -14,11 +14,13 @@ The analysis was performed on the Kickstarting dataset which contains fundraisin
 
 For the analysis of outcomes based on launch date, we utilized pivot tables to summarize the data and filter it to only only show "Theater" campaigns.
 A line chart was created from the pivot table to visualize campaign outcomes ("successful," "failed," and "canceled") based on launch date.
+<br />
 ![pivottable](/Resources/PivotTable1.png)
 
 ### Analysis of Outcomes Based on Goals
 
 For the analysis of Outcomes Based on Goals, we used Excel formulas and functions to calculate the percentage of "successful", "failed" and "canceled" plays based on the funding goal amount. Again, we used a line chart to visualize the relationship between outcomes and campaign goals.
+<br />
 ![OutcomesTable](/Resources/Table.png)
 
 ### Challenges and Difficulties Encountered
