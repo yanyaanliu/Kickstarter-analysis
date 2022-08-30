@@ -35,7 +35,7 @@ failed.
 
 The most successful campaigns are the one with the lowest goals. The most successful goal range was "less than $1000" with 76% sucess rate, followed by the  "$1000 to $4999" range with 73% sucess rate.
 Campaign goals over $20,000 have a larger percentage of "failed" than the percentage of "successful". 
-Campaign goals of "$45000 to $49999" and $50,000 or more" are the most unsucessful with 100% and 88% faiure rate respectively. 
+Campaign goals of "$45000 to $49999" and $50,000 or more" are the most unsucessful with 100% and 88% failure rate respectively. 
 ![Outcomes based on goal](/Resources/Outcomes_vs_Goals.png)
 
 - What are some limitations of this dataset?
