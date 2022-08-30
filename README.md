@@ -15,11 +15,11 @@ A line chart was created from the pivot table to visualize campaign outcomes ("s
 
 ### Analysis of Outcomes Based on Goals
 
-For the analysis of Outcomes Based on Goals, we used Excel formulas and functions to calculate the percentage of successful, failed and canceled plays based on the funding goal amount. Again, we used a line chart to visualize the relationship between outcomes and campaign goals.
+For the analysis of Outcomes Based on Goals, we used Excel formulas and functions to calculate the percentage of "successful", "failed" and "canceled" plays based on the funding goal amount. Again, we used a line chart to visualize the relationship between outcomes and campaign goals.
 
 ### Challenges and Difficulties Encountered
 
-One the challenges was using the COUNTIFS function to populate the "Number Successful," "Number Failed," and "Number Canceled" since criteria changed based on the goal range for each of the cells to be populated. 
+One the challenges was using the COUNTIFS function to populate the "Number Successful," "Number Failed," and "Number Canceled" since criteria changed based on the goal range for each of the cells to be populated. Changing the criteria manually could have led to errors.
 
 ## Results
 
