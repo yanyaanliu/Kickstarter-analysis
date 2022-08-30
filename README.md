@@ -25,14 +25,18 @@ One the challenges was using the COUNTIFS function to populate the "Number Succe
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-Based on the analysis of theater outcomes based on launch date, we can see that there is a larger number of successful campaigns lauched in the  months of May, June and July (Summer). However, there is less successful campaigns in the winter months (Nov, Dec, Jan). October and December both had roughly the same number of failed campaigns launched. 
+Based on the analysis of theater outcomes based on launch date, we can see that there is a larger number of successful campaigns lauched in the  months of May, June and July (Summer). The most successful month was May; 66.9% of the 166 campaigns were successful.
+On the other hand, there were less successful campaigns in the winter months (Nov, Dec, Jan). December was the month with most failed campaigns, 46.67% of 75
+failed.
 
-![](/Resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes based on launch](/Resources/Theater_Outcomes_vs_Launch.png)
 
 - What can you conclude about the Outcomes based on Goals?
-The most successful campaigns are the one with the lowest goals. In this case, the ranges of "less than 1000" and "1000 to 4999". 
-Campaign goals over 20,000 have a larger percentage of "failed" than the percentage of "successful". 
-Campaign goals of 50,000 or more are usually unsucessful with 88% failed and only 13% sucessful.
+
+The most successful campaigns are the one with the lowest goals. The most successful goal range was "less than $1000" with 76% sucess rate, followed by the  "$1000 to $4999" range with 73% sucess rate.
+Campaign goals over $20,000 have a larger percentage of "failed" than the percentage of "successful". 
+Campaign goals of "$45000 to $49999" and $50,000 or more" are the most unsucessful with 100% and 88% faiure rate respectively. 
+![Outcomes based on goal](/Resources/Outcomes_vs_Goals.png)
 
 - What are some limitations of this dataset?
 
@@ -43,5 +47,3 @@ For instance, in the analysis of outcomes based on goal, we are only focusing on
 
 We can create also create a stacked column chart for both analyses. For the Outcomes based on Launch Date, we can compare the successful, failed and canceled outcomes as whole and show how it changes over time. 
 A clustered column chart can be created for the Outcomes based on Goals to compare the values across the different categories: % successful, % failed and % canceled. 
-
-
