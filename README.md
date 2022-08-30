@@ -20,7 +20,7 @@ A line chart was created from the pivot table to visualize campaign outcomes ("s
 
 ### Analysis of Outcomes Based on Goals
 
-For the analysis of Outcomes Based on Goals, we used Excel formulas and functions to calculate the percentage of "successful", "failed" and "canceled" plays based on the funding goal amount. Again, we used a line chart to visualize the relationship between outcomes and campaign goals.
+For the analysis of Outcomes Based on Goals, we used Excel formulas and functions (COUNTIFS, SUM and division) to calculate the percentage of "successful", "failed" and "canceled" plays based on the funding goal amount. Again, we used a line chart to visualize the relationship between outcomes and campaign goals.
 <br />
 ![OutcomesTable](/Resources/Table.png)
 
@@ -33,7 +33,7 @@ One the challenges was using the COUNTIFS function to populate the "Number Succe
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 Based on the analysis of theater outcomes based on launch date, we can conclude that there is a larger number of successful campaigns lauched in the  months of May, June and July (Summer). The most successful month was May; 66.9% of the 166 total campaigns launched were successful.
-On the other hand, we can conclude that the least successful campaigns took place the winter months (Nov, Dec, Jan). December was the month with most failed campaigns, 46.67% of 75 campaigns failed.
+On the other hand, we can conclude that the least successful campaigns took place in the winter months (Nov, Dec, Jan). December was the month with most failed campaigns, 46.67% of 75 campaigns failed.
 ![Outcomes based on launch](/Resources/Theater_Outcomes_vs_Launch.png)
 
 - What can you conclude about the Outcomes based on Goals?
